@@ -7,6 +7,19 @@ body{ /*a quien se le dara estilo*/
 
 h1,h2,h3{
     font-family: Montserrat, Arial, sans-serif;
-    color: rgb(5, 9, 85);
+    color: #1F3A5F;
 }
 
+header{ 
+    background-color: #C8D6E8;
+    padding: 40px; /*el espacio dentro de una caja, entre su borde y su contenido*/
+                   /*px es cada puntito de la pantalla*/
+}
+
+img{
+    width: 160px; /*Ancho*/
+    height: 160px; /*Alto*/
+    border-radius: 50%; /*Es que tan redondas son las esquinas*/
+    object-fit: cover; /*Es para acomodar la foto dentro del tamaño que tiene*/
+    border: 6px solid #EBF3FE;
+}
