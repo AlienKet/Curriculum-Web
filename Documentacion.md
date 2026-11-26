@@ -37,7 +37,6 @@
 - **`h1`:** el título del libro. En mi CV es mi nombre. Solo debe haber uno.
 - **`h2`:** los capítulos, como «Contacto», «Habilidades» y «Educación».
 - **`h3`:** los temas dentro de un capítulo, como el nombre de mi carrera dentro de «Educación».
-- No me debo saltar niveles: no pongo un `h3` si antes no hay un `h2`.
 
 ## Atributos que he usado
 

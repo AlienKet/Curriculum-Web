@@ -1,0 +1,12 @@
+
+body{ /*a quien se le dara estilo*/
+    font-family:Lato, Arial, sans-serif; /*Tipo de letra*/
+    color: #222222;   /*Color del texto*/
+    background-color: #FFFFFF;  /*Color de Fondo*/
+}
+
+h1,h2,h3{
+    font-family: Montserrat, Arial, sans-serif;
+    color: rgb(5, 9, 85);
+}
+
